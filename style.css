@@ -18,6 +18,7 @@
 
 body {
     min-height: 100vh;
+    background: hsl(210, 46%, 95%);
 }
 
 main {
